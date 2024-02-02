@@ -23,4 +23,29 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br>
+
+- 🌱 I’m currently working Software Web Development and other programming languages
+
+- 📫 How to reach me **receptuna@live.com**
+  
+- 🚀 My Personel Website : Coming soon 👩🏻‍💻.
+
+- ⚡ Fun Fact : Code and Music🎵 are the reasons to live.
+
+- [![](https://visitcount.itsvg.in/api?id=receptuna&icon=0&color=12)](https://visitcount.itsvg.in)
+ 
+<br>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/receptuna81
+    /" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="receptuna" height="30" width="40" /></a>
+</p>
+
+<br>
+
 

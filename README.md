@@ -1,5 +1,15 @@
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Recep TUNA</h1>
+<h3 align="center">🌟Full Stack .Net Web Developer🌟</h3>
+
+<br>
+
+<p><img align="right" style="height:350px;" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="" /></p>
+
+<br>
+
+
 ### Hi 👋, I'm Recep TUNA
-<hr>
+
 [![](https://visitcount.itsvg.in/api?id=receptuna&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 
 
@@ -14,19 +24,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-**receptuna/receptuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!--
-**receptuna/receptuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

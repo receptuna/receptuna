@@ -10,18 +10,9 @@
 
 ### Hi 👋, I'm Recep TUNA
 
-[![](https://visitcount.itsvg.in/api?id=receptuna&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
-
-
-
 🔭 I’m currently working on  ✨ _Full-Stack .Net Web Developer_ ✨
 
-
-
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/receptuna81/)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
@@ -70,7 +61,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yagmurttk&&row=1&theme=radical" alt="Yagmur Tetik" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yagmurttk&&row=1&theme=radical" alt="RECEP TUNA" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -80,12 +71,12 @@
 <table border="0" align="center">
   <tr border="0">
     <td width="50%" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=yagmurttk&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+ <img src="https://github-readme-stats.vercel.app/api?username=receptuna&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
  <hr>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagmurttk&amp;theme=radical&amp;hide_border=false" alt="">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=receptuna&amp;theme=radical&amp;hide_border=false" alt="">
    </td>
   <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yagmurttk&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=receptuna&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
   </td>
  </tr>
 </table>
@@ -96,7 +87,7 @@
 
 ### 📊 Contribution Stats
 
-<img alt="Yağmur's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yagmurttk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Recep's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=receptuna&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <br>
 

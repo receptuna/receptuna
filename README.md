@@ -11,14 +11,15 @@
 ### Hi 👋, I'm Recep TUNA
 
 🔭 I’m currently working on  ✨ _Full-Stack .Net Web Developer_ ✨
- Over 10 years of professional software development experience and 18+ years
+
+ Over 10 years of professional software development experience and 12+ years
 of programming experience.
 ✨ Experienced in all phases of Software Development Life Cycle (SDLC)
 including analysis, design, development, testing and implementation of high
 quality & complex software.
 
-✨ Strong foundation in Object Oriented Programming (OOP) and adherence to
-software design principles such as SOLID, DRY, and KISS, resulting in the
+✨ Strong foundation in Object Oriented Programming (**OOP**) and adherence to
+software design principles such as **SOLID**, **DRY**, and **KISS**, resulting in the
 creation of clean and efficient code that is easy to understand and modify.
 
 ✨ Knowledgeable in design patterns such as singleton, repository, dependency
@@ -26,12 +27,12 @@ injection, and more.
 
 ✨ Experience in database design, and performance tuning.
 
-✨ Experienced in RESTful API and JWT.
+✨ Experienced in RESTful API,**DICOM C-Store SCU/SCP** and JWT.
 
 ✨ Familiarity with image processing and computer vision, allowing for the
 creation of solutions that process visual data in innovative ways.
 
-✨ Capable of extracting and transforming data from various file types, including
+✨ Capable of extracting and transforming data from various file types, including **DICOM**, **HL7**,
 Image, PDF, and Excel, to streamline workflows and increase productivity.
 
 ✨ Contributes to open-source projects, with notable contributions to the Serenity

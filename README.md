@@ -92,27 +92,10 @@ development
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <br>
-  
-<table border="0" align="center">
-  <tr border="0">
-    <td width="50%" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=receptuna&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
- <hr>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=receptuna&amp;theme=radical&amp;hide_border=false" alt="">
-   </td>
-
- </tr>
-</table>
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-### 📊 Contribution Stats
 
-<img alt="Recep's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=receptuna&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 

@@ -32,7 +32,7 @@ injection, and more.
 ✨ Familiarity with image processing and computer vision, allowing for the
 creation of solutions that process visual data in innovative ways.
 
-✨ Capable of extracting and transforming data from various file types, including **DICOM**, **HL7**,
+✨ Capable of extracting and transforming data from various file types, including **DICOM** Xray Images, **HL7**,
 Image, PDF, and Excel, to streamline workflows and increase productivity.
 
 ✨ Contributes to open-source projects, with notable contributions to the Serenity

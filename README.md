@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="right" style="height:350px;" src="![reco]([https://github.com/receptuna/receptuna/assets/2880274/45f6ff0c-4405-4979-8c4d-e96791bbd6ae](https://github-production-user-asset-6210df.s3.amazonaws.com/2880274/302192594-45f6ff0c-4405-4979-8c4d-e96791bbd6ae.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240205%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240205T061827Z&X-Amz-Expires=300&X-Amz-Signature=0963e2243ea1f205062bd06ba0e2647fb378338468575f622aed783796f7b9ac&X-Amz-SignedHeaders=host&actor_id=2880274&key_id=0&repo_id=751831797))" alt="" /></p>
+<p><img align="right" style="height:350px;" src="![reco](https://github.com/receptuna/receptuna/assets/2880274/45f6ff0c-4405-4979-8c4d-e96791bbd6ae)" alt="" /></p>
 
 <br>
 

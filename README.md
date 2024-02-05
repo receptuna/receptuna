@@ -3,7 +3,8 @@
 
 <br>
 
-<p><img align="right" style="height:350px;" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="" /></p>
+<p><img align="right" style="height:350px;" src="![image](https://github.com/receptuna/receptuna/assets/2880274/80fe2344-42ff-49a6-8806-9df74981e4f2)
+" alt="" /></p>
 
 <br>
 

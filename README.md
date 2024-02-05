@@ -3,9 +3,7 @@
 
 <br>
 
-<p><img align="right" style="height:350px;" src="![reco](https://github.com/receptuna/receptuna/assets/2880274/45f6ff0c-4405-4979-8c4d-e96791bbd6ae)
-" alt="" /></p>
-
+<p><img align="right" style="height:350px;" src="![reco](https://github.com/receptuna/receptuna/assets/2880274/45f6ff0c-4405-4979-8c4d-e96791bbd6ae)" alt="" /></p>
 
 <br>
 

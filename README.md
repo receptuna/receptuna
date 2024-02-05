@@ -14,7 +14,7 @@
 
  Over 10 years of professional software development experience and 12+ years
 of programming experience.
-✨ Experienced in all phases of Software Development Life Cycle (SDLC)
+✨ Experienced in all phases of Software Development Life Cycle (**SDLC**)
 including analysis, design, development, testing and implementation of high
 quality & complex software.
 

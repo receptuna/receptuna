@@ -5,6 +5,53 @@
 
 <p><img align="right" style="height:350px;" src="https://serenity.is/Content/frontend/img/masthead-icon.webp?v=FYwA68W8ccFd_vDEAZHRjw" alt="" /></p>
 
+<style>
+  .masthead__style-watter {
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 100% auto;
+    padding-bottom: 170px
+}
+
+@media(max-width: 991px) {
+    .masthead__style-watter {
+        padding-bottom:80px;
+        text-align: center
+    }
+}
+
+@media(max-width: 767px) {
+    .masthead__style-watter {
+        padding-bottom:60px
+    }
+}
+
+.masthead__style-watter--image {
+    position: relative;
+    display: block;
+    text-align: center;
+    padding-top: 165px
+}
+
+@media(max-width: 767px) {
+    .masthead__style-watter--image {
+        padding-top:120px
+    }
+}
+
+.masthead__style-watter--icon {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: auto;
+    z-index: 9;
+    top: 0;
+    animation-duration: 4.5s;
+    transition: all .3s ease-in-out
+}
+</style>
+
 <div class="masthead__style-watter--image">
                         <div class="masthead__style-watter--icon flyIn">
                             <img src="https://serenity.is/Content/frontend/img/masthead-icon.webp?v=FYwA68W8ccFd_vDEAZHRjw" class="img-fluid" alt="Icon">

@@ -3,8 +3,7 @@
 
 <br>
 
-<p><img align="right" style="height:350px;" src="![image](https://github.com/receptuna/receptuna/assets/2880274/80fe2344-42ff-49a6-8806-9df74981e4f2)
-" alt="" /></p>
+<p><img align="right" style="height:350px;" src="https://serenity.is/Content/frontend/img/masthead-icon.webp?v=FYwA68W8ccFd_vDEAZHRjw" alt="" /></p>
 
 <br>
 

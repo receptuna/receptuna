@@ -5,6 +5,13 @@
 
 <p><img align="right" style="height:350px;" src="https://serenity.is/Content/frontend/img/masthead-icon.webp?v=FYwA68W8ccFd_vDEAZHRjw" alt="" /></p>
 
+<div class="masthead__style-watter--image">
+                        <div class="masthead__style-watter--icon flyIn">
+                            <img src="/Content/frontend/img/masthead-icon.webp?v=FYwA68W8ccFd_vDEAZHRjw" class="img-fluid" alt="Icon">
+                        </div>
+                        <img src="/Content/frontend/img/businessman-meditating.webp?v=ZfK6ccVV4Yb5lTmkK4CkqQ" class="img-fluid" alt="Business Man">
+                    </div>
+
 <br>
 
 

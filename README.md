@@ -39,6 +39,8 @@ Image, PDF, and Excel, to streamline workflows and increase productivity.
 platform, demonstrating dedication to advancing the field of software
 development
 
+✨ REACT Native Mobile Programming
+
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/receptuna81/)
 
 <br>
